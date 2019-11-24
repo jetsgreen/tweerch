@@ -72,12 +72,12 @@ function productsForSale() {
         }
         console.log("~~~~~~~~~~~~~~~~~~~~~~~~ Products for Sale ~~~~~~~~~~~~~~~~~~~~~");
         console.log(table.toString());
-        // viewLowInventory();
+       
     });
 };
 
 function viewLowInventory() {
-    var sqlQuery = "SELECT item_id, product_name, stock_quantity FROM products WHERE stock_quantity < 20";
+    var sqlQuery = "SELECT item_id, product_name, stock_quantity FROM products WHERE stock_quantity < 10";
     connection.query(sqlQuery, function (err, res) {
         if (err) throw err;
 
