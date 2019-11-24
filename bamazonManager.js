@@ -179,7 +179,7 @@ function addProduct() {
                 console.log(res.affectedRows + " product inserted!\n");
             }
         );
-
+        productsForSale();
         console.log(query.sql);
 
     })

@@ -14,7 +14,7 @@ An interactive storefront that runs in the console using node. This storefront i
 
  #### How It Works
 
- This part of the app is designed for a manager of Bamazon to view inventory, add to inventory and to add new products to inventory.  The mamanger is first prompted by a series of choices.  If they choose to view products for sale, they app will display a table grid of all available items for sale.  They can also view low inventory.  This function will show the manager items that only have 10 items left.  If they want, they then can add to inventory by choosing the item id and amount they want to add to inventory.  And finally if they want to add a new product to they inventory, the mamanger has that choice by creating a new product.
+ This part of the app is designed for a manager of Bamazon to view inventory, add to inventory and to add new products to inventory.  The mamanger is first prompted by a series of choices.  If they choose to view products for sale, they app will display a table grid of all available items for sale.  They can also view low inventory.  This function will show the manager items that only have 10 items left.  If they want, they then can add to inventory by choosing the item id and amount they want to add to inventory.  And finally if they want to add a new product to they inventory, the mamanger has that choice by creating a new product.  This function will add the new product with all perspective information to the bottom of the table grid. 
 
 
 
