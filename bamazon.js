@@ -38,10 +38,6 @@ function displayItems() {
     });
  }
 
-
-
-
-
 function purchase() {
     inquirer.prompt([
         {
