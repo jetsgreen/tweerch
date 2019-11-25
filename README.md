@@ -6,7 +6,9 @@ An interactive storefront that runs in the console using node. This storefront i
 
  ## Bamazon (Customer) 
 
- This part of the app, the customer is displayed the total inventory in a table grid for the customer to make their choice of purchase.  It shows the item id, product name, price and the items that are left in stock.
+ This part of the app, the customer is displayed the total inventory in a table grid for the customer to make their choice of purchase.  It shows the item id, product name, price and the items that are left in stock.  All the information that is provided to the client and also the manager(see second part of app) was created in My SQL workbench.
+ 
+ ![Screenshot (15)](https://user-images.githubusercontent.com/54869284/69559996-00f90280-0f79-11ea-9675-575ed3811148.png)
 
  Then the client is prompted to pick the item id they would like to purchase and how many of this item they want.  After the client makes his/her selection, Bamamzon will show the the number of items selected and the product name. If the client makes a selection that is not available(not enough inventory), they will be prompted to edit their purchase.  The table grid will be automatically updated to display they new inventory in stock.
  
