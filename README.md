@@ -28,6 +28,8 @@ An interactive storefront that runs in the console using node. This storefront i
  
 ![Screenshot (11)](https://user-images.githubusercontent.com/54869284/69504370-1c6bfb00-0ef0-11ea-9511-280d72ee3ff1.png)
 
+![Screenshot (16)](https://user-images.githubusercontent.com/54869284/69680633-7ea43780-1079-11ea-8b24-b75aa2ab73bf.png)
+
 ![Screenshot (12)](https://user-images.githubusercontent.com/54869284/69504373-1ece5500-0ef0-11ea-96e9-5cf99dbca75a.png)
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/54869284/69504374-20981880-0ef0-11ea-96a1-e7583e43c054.png)
